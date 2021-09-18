@@ -11,4 +11,4 @@ O Projeto foi desenvolvido utilizando as seguintes tecnologias.
 - Css
 - Javascript <br/><br/>
 
-- [Clique para acessar a pagina](  https://welton1986.github.io/SitePizza/)
+- [Clique para acessar a pagina]( https://welton1986.github.io/Projeto-Clima/)
