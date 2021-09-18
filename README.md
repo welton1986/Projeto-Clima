@@ -4,7 +4,7 @@
 
 
 
-Página elaborada com ajuda do curso do Professor Bonieky  , se trata de uma aplicação que busca em uma API online e retorna o tempo em cada cidade do mundo ,  foi colocado em prática os conceitos de Html , Css e Javascript. <br/> <br/>
+Página elaborada com ajuda do curso do Professor Bonieky  , se trata de uma aplicação que busca em uma API online e retorna o clima , entre outras informações em cada cidade do mundo ,  foi colocado em prática os conceitos de Html , Css e Javascript. <br/> <br/>
 
 ## 💻 Tecnologias utilizadas
 
